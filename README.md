@@ -1,2 +1,2 @@
 # MOV_ProyectoFinal
-Integrantes: Marco AntonioManjarrez, Santiago Arriola, Cristian Miravete y Jorge Alberto Fong
+Integrantes: Marco Antonio Manjarrez, Santiago Arreola, Cristian Miravete y Jorge Alberto Fong
