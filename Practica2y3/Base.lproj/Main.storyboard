@@ -358,7 +358,7 @@
                                 <rect key="frame" x="50" y="276.33333333333326" width="293" height="299.66666666666674"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Name:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kRp-ZL-5zO">
-                                        <rect key="frame" x="0.0" y="0.0" width="293" height="20.333333333333329"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="293" height="20.333333333333332"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
@@ -404,7 +404,7 @@
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cBn-rk-MSF">
                                         <rect key="frame" x="0.0" y="265.33333333333331" width="293" height="34.333333333333314"/>
                                         <state key="normal" title="Button"/>
-                                        <buttonConfiguration key="configuration" style="filled" title="Create Account"/>
+                                        <buttonConfiguration key="configuration" style="filled" title="Save Changes"/>
                                         <connections>
                                             <action selector="updateAccount:" destination="kPW-fZ-9Ac" eventType="touchUpInside" id="kaT-sb-hf1"/>
                                         </connections>

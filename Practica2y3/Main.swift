@@ -12,7 +12,7 @@ import CoreImage.CIFilterBuiltins
 class Main: UIViewController {
     
     @IBOutlet weak var greeting: UILabel!
-    @IBOutlet weak var qrImageView: UIImageView! // Asegúrate de conectarlo en el Storyboard
+    @IBOutlet weak var qrImageView: UIImageView!
 
     var greetingText: String = ""
     let context = CIContext()
@@ -32,7 +32,7 @@ class Main: UIViewController {
                 if let snap = child as? DataSnapshot,
                    let value = snap.value as? [String: Any],
                    let estatus = value["estatus"] as? String,
-                   estatus == "QR sin generar",
+                   estatus == "QR no generado",
                    let clave = value["clave"] as? String {
                     
                     // Generar QR
