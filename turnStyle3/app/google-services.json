@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "560383069052",
+    "firebase_url": "https://loginmobile-d8661-default-rtdb.firebaseio.com",
+    "project_id": "loginmobile-d8661",
+    "storage_bucket": "loginmobile-d8661.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560383069052:android:b0a056d3c64c98d56772f9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78q7Bz3QUYwCktGw_2RmQjKaRIlxXS6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560383069052:android:7158b4a36d5b0fc76772f9",
+        "android_client_info": {
+          "package_name": "com.example.turnstyle3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78q7Bz3QUYwCktGw_2RmQjKaRIlxXS6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
